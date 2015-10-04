@@ -9,4 +9,4 @@ Axioms:
 
 Choice of language:
 
-Java was chosen as the language for this task due to the portability after compiling code to bytecode.
+Java was chosen as the language for this task due to the portability of instructions after compiling to bytecode.
