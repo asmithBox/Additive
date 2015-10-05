@@ -62,8 +62,6 @@ public class additivefunc {
 
 	public static int secret(int x) {
 	//placeholder
-		
-		return 5;
 	}
 	
 }
