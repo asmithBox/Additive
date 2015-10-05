@@ -20,6 +20,7 @@ public class additivefunc {
 		
 		for(int i=0;i<n;i++) {
 			if(!cauchyComp(data, (int) data.get(i))) {
+				System.out.println("Proof failed");
 				return false;
 			}
 		}
