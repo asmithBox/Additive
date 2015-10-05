@@ -33,7 +33,9 @@ public class additivefunc {
 			
 			if(secret(x+y) == (secret(x) + secret(y))) {
 				System.out.println(x + " - " + y);
-			} 
+			} else {
+				return false;
+			}
 			
 		}
 		
