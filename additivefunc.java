@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class additivefunc {
 
-	public static ArrayList<Integer> Plist = new ArrayList<Integer>();
+	public static ArrayList Plist = new ArrayList();
 	
 	public static void main(String[] args) {
 		//Example execution
